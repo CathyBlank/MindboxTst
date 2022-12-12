@@ -1,0 +1,10 @@
+D:\EkatA\Mindbox test\Figures\Figures\bin\Debug\netstandard2.0\Figures.deps.json
+D:\EkatA\Mindbox test\Figures\Figures\bin\Debug\netstandard2.0\Figures.dll
+D:\EkatA\Mindbox test\Figures\Figures\bin\Debug\netstandard2.0\Figures.pdb
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.csproj.AssemblyReference.cache
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfoInputs.cache
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.AssemblyInfo.cs
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.csproj.CoreCompileInputs.cache
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.dll
+D:\EkatA\Mindbox test\Figures\Figures\obj\Debug\netstandard2.0\Figures.pdb
